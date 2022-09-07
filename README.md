@@ -9,3 +9,4 @@ CCMC6:EXIT\
 CCMC7:功能版\
 CCMC8:RESMON\
 CCMC9:禁用任务管理器，注册表\
+您可以直接调用此CCM_CORE库!
